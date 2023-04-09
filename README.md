@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Tanyasrivastava4/Tanyasrivastava4/blob/main/Github.Banner.png.jpeg)
 <h1 align="center">Hi 👋, I'm Tanya Srivastava</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 <img align="right" alt="coding" width ="400" scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&usqp=CAU">
